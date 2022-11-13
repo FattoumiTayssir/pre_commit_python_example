@@ -12,6 +12,6 @@ def hello_world():
     return "hello"
 
 
-HELLO = 'hello man'
+HELLO = 'hello man,thirsty'
 """just a long string"""
 SOME_INTEGER = 23

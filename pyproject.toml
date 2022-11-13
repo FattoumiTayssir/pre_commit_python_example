@@ -1,4 +1,4 @@
-[tool.poetry]
+9[tool.poetry]
 name = "pre-commit-python-example"
 version = "0.1.0"
 description = "a python tutorial for pre-commiting"
@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "pre_commit_python_example"}]
 
 [tool.poetry.dependencies]
-python = "3.10.2"
+python = "^3.9"
 pre-commit = "^2.20.0"
 black = "^22.10.0"
 
