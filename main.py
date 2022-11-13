@@ -1,7 +1,17 @@
-import pandas as pd
+"""
+This module helps getting idea how pre-commits and linting works
+"""
+
+
 def hello_world():
+    """some_func
+
+    Returns:
+        str: static_string
+    """
     return "hello"
 
-hello = 'hello man'
+
+HELLO = 'hello man'
 """just a long string"""
-some_interger = 23
+SOME_INTEGER = 23
